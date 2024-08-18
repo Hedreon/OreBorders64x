@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 12,
-		"description": "This 32x addon is here to remove Sea Lantern animations."
+		"pack_format": 34,
+		"description": "This Faithful add-on removes animations from sea lanterns."
 	}
 }
