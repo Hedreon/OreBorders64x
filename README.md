@@ -1,4 +1,5 @@
 # Ore Borders 64x
-64x port of the Faithful Ore Borders addon
 
-![Image](https://raw.githubusercontent.com/Hedreon/Faithful-Addons/oreborders/IMAGES/PREVIEW_02.png)
+Ore Borders 64x is a 64x port of [Aerod's Ore Borders add-on,](https://faithfulpack.net/addons/ore-borders) using Vanilla Tweaks' color palette.
+
+![Preview](https://raw.githubusercontent.com/Hedreon/Faithful-Addons/oreborders/images/preview.png)

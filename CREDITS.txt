@@ -1,4 +1,4 @@
 CREDITS:
-Hedreon - 64x port of the Ore Borders addon.
-Aerod - Ore Borders addon.
-Vanilla Tweaks Team - The original Ore Borders.
+Vanilla Tweaks - Original Ore Borders.
+Aerod - Ore Borders add-on.
+Hedreon - 64x port.
